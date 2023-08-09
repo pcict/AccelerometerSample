@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AccelerometerSample</string>
+    <string name="tv_title">加速度センサーの値</string>
+    <string name="tv_x">X軸:</string>
+    <string name="tv_y">Y軸:</string>
+    <string name="tv_z">Z軸:</string>
+    <string name="bt_on">ON</string>
+    <string name="bt_off">OFF</string>
+</resources>
